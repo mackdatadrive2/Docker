@@ -1,1 +1,1 @@
-resourse "aws"
+
