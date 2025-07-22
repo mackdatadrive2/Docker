@@ -1,6 +1,3 @@
-# Author :- Dheeraj Choudhary
-
-variable "AWS_REGION" 
-{ 
+variable "aws_region" { 
 default = "us-east-1" 
 }
